@@ -1,6 +1,6 @@
 # Exercise 07 — Book Summary Page
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-07-book-summary/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-07-book-summary)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-07-book-summary/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ The first styled content page applies background color, selector-based styling, 
 ## Sequence
 
 **Exercise 07 of 27** · Independent practice
-
