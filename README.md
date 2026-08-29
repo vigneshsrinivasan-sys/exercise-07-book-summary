@@ -1,6 +1,6 @@
 # Exercise 07 — Book Summary Page
 
-[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-07-book-summary/) · [HTML source](index.html) · [CSS source](styles.css)
+[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-07-book-summary/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
