@@ -1,0 +1,30 @@
+body {
+  font-family: Lato, sans-serif;
+}
+
+nav {
+  background-color: rgb(205, 231, 255);
+}
+
+header {
+  background-color: beige;
+}
+
+footer {
+  background-color: #f0d0a5;
+}
+
+h2 {
+  color: rgb(3, 3, 100);
+  text-transform: uppercase;
+}
+
+article {
+  background-color: azure;
+  padding: 24px;
+  margin-bottom: 12px;
+}
+
+.nav:hover {
+  color: red;
+}
