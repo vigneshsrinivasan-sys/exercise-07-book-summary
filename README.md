@@ -24,4 +24,4 @@ The first styled content page applies background color, selector-based styling, 
 
 ## Sequence
 
-**Exercise 07 of 27** · Independent practice
+**Exercise 07** · Independent practice
